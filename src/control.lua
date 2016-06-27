@@ -1,4 +1,3 @@
-require "defines"
 
 function ticker()
 	if global.pipes ~= nil then
